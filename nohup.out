@@ -1,0 +1,7 @@
+Laravel development server started: <http://0.0.0.0:80>
+Laravel development server started: <http://0.0.0.0:80>
+[Tue Jun 20 09:39:11 2017] Failed to listen on 0.0.0.0:80 (reason: Address already in use)
+Laravel development server started: <http://0.0.0.0:80>
+[Tue Jun 20 09:39:53 2017] 14.52.29.61:55802 [200]: /css/GeneralPageElement/header.css
+[Tue Jun 20 09:39:53 2017] 14.52.29.61:55803 [200]: /css/GeneralPageElement/footer.css
+[Tue Jun 20 09:39:53 2017] 14.52.29.61:55816 [200]: /Image/CredLogo/credberrylogo.png

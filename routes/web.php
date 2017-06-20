@@ -12,5 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('IndexPage.indexView');
 });
+
+Route::get('/login',function(){
+  return view('Auth.loginView');
+});
+
+Route::post('/loginProcess','loginProcess@checkLogin');
